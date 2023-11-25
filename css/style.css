@@ -1,0 +1,23 @@
+  ol li{
+    display: inline;
+    
+}
+  ol li a{
+    margin: 30px;
+    color: #485664;
+    text-decoration: none;
+font-size: 18px;
+font-weight: 400;
+
+}
+.a{
+background-color: #485664;
+}
+.card-header{
+  transition: 0.5s  all;
+}
+.card-header:hover{
+   transform: translateY(-20px);
+   transition: 0.5s all;
+   box-shadow: 20px 20px  20px rgba(128, 128, 128, 0.438);
+}
